@@ -137,16 +137,14 @@ Deep learning environmental analysis system. Accepted research paper at **ICICT 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohitsai3579&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Mohit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitsai3579&theme=github_dark&hide_border=true&background=0d1117" alt="Mohit's Streak Stats" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Mohitsai3579&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Mohit's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Mohitsai3579&theme=github_dark&hide_border=true&background=0d1117" alt="Mohit's Streak Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitsai3579&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
-</div>
-
----
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mohitsai3579&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
 
 ## 💼 Work Experience
 
