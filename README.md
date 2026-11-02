@@ -142,19 +142,6 @@ Detection system with an accepted research paper at **ICICT 2026** (Paper ICICT-
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohitsai3579&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitsai3579&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitsai3579&theme=tokyonight&hide_border=true" alt="Streak" />
-
-</div>
-
----
-
 <div align="center">
 
 **Let's build something.** Reach me on [LinkedIn](https://www.linkedin.com/in/jonnadula-mohit-sai-06437b289/) or via my [portfolio](https://advanced-portfolio-orpin.vercel.app/).
